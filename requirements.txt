@@ -1,0 +1,7 @@
+langchain 
+pinecone-client
+fastapi 
+uvicorn 
+PyPDF2 
+openai
+weaviate-client==3.26.0
